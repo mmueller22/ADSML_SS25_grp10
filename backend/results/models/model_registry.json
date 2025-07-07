@@ -1,0 +1,11 @@
+{
+  "active_model": "mindfultech_rf_0a97602d",
+  "model_history": [
+    {
+      "version": "mindfultech_rf_0a97602d",
+      "deployed_at": "2025-07-07T13:34:23.045944",
+      "performance": 0.99975,
+      "status": "active"
+    }
+  ]
+}
